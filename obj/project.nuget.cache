@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "6D05+bKwpdYKSMLaCACDSFc9wkd4VKUWLcEX2mIW9DI14/vn11UXbadQWI8YK7AqTXWjBmVJHqQraSBqYZramQ==",
+  "success": true,
+  "projectFilePath": "E:\\2DS\\DS\\RpgMvc\\RpgMvc\\RpgMvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karlp\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.6\\microsoft.aspnetcore.jsonpatch.8.0.6.nupkg.sha512",
+    "C:\\Users\\karlp\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.6\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.6.nupkg.sha512",
+    "C:\\Users\\karlp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\karlp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\karlp\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
